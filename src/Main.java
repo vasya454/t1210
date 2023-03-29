@@ -39,7 +39,7 @@ public class Main {
             Way way1 = new Way(dot2, dot1, 15);
             Way way2 = new Way(dot1, dot2, 15);
             if (way1.start == way2.finish) {
-                System.out.println("ААа");
+                System.out.println("Аааа");
             }
 //            int[] ways = new int[n * 30*30];
 //            int a, b, i;
